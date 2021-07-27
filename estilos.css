@@ -1,0 +1,44 @@
+.contenedor{
+    display: flex;
+    border: 2px solid #000;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 50%;
+    margin: 0 auto;
+  
+}
+
+.roja{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: #FF0000;
+    
+    
+  
+}
+
+.azul{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: #0000FF;
+
+}
+
+.verde{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: #00FF00;
+}
+
+div{
+    color: #fff;
+}
+
+p{
+    margin: auto;
+    font-size: 25px;
+}
+
